@@ -40,9 +40,6 @@
   
 
 ✨ *Cada linha de código é um passo no meu aprendizado.*  
-Estou fortalecendo minha base em **HTML**, **CSS** e **JavaScript**,  
-e expandindo meus conhecimentos com frameworks do Front-End.
-
 
 ---
 
