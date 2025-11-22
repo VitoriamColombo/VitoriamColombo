@@ -2,10 +2,8 @@
   
 # Olá! Eu sou a Vitória Colombo 👩🏻‍💻 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&speed=200&pause=1200&color=E58EB2&background=00000000&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End"
-      alt="Desenvolvedora Front-End" />
-  </a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&speed=200&pause=1200&color=FFCDED&background=00000000&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End" alt="Desenvolvedora Front-End" /> </a>
+
 </div>
 
 <div align="center">
