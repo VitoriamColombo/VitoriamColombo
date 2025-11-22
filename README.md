@@ -50,10 +50,10 @@
 </p>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man no meu gráfico de contribuições" src="https://raw.githubusercontent.com/VitoriamColombo/VitoriamColombo/output/pacman-contribution-graph.svg">
+  </picture>
 
 </div>
